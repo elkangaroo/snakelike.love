@@ -7,3 +7,7 @@ First contact with lua and löve.
 
 Work in progress...
 
+#Controls
+Move with the arrow keys.
+Press 'h' for in-game help and additional keys.
+
