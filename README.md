@@ -11,3 +11,7 @@ Work in progress...
 Move with the arrow keys.
 Press 'h' for in-game help and additional keys.
 
+#Music
+Background music is taken from [opengameart.org](http://opengameart.org/) and licensed under [CC-BY 3.0](http://creativecommons.org/licenses/by/3.0/).
+- [Jump and Run (8-bit)](http://opengameart.org/content/jump-and-run-8-bit) by bart
+- [8-Bit Ninja](http://opengameart.org/content/8-bit-ninja) by FoxSynergy
