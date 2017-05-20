@@ -78,7 +78,7 @@ function love.keypressed(key, unicode)
     app.showdebug = not app.showdebug
   end
   if 'f' == key then
-    love.graphics.toggleFullscreen()
+    love.window.setFullscreen(not love.window.getFullscreen())
   end
   if 'h' == key then
     app.showhelp = not app.showhelp
@@ -122,4 +122,3 @@ function app.debug()
     app.entities.snake:debug()
   love.graphics.pop()
 end
-
